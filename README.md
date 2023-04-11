@@ -48,8 +48,8 @@ The application allows you to add, edit, and delete tasks. You can mark tasks as
 
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/Harsh-Srivastav123/REST-API-using-Flask-CRUD-/blob/main/resr-api1.jpg)
+![App Screenshot](https://github.com/Harsh-Srivastav123/REST-API-using-Flask-CRUD-/blob/main/rest-api2.jpg)
 
 
 ## Contributing
